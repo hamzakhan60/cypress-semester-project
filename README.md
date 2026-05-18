@@ -54,7 +54,7 @@ cypress-project/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/hamzakhan60/cypress-project.git
+git clone https://github.com/hamzakhan60/cypress-semester-project.git
 cd cypress-project
 npm install
 ```
